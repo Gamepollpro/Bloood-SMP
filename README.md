@@ -42,11 +42,11 @@ You can view your exact specs by doing `./specinfo`
 * Activate a [Google Cloud Shell](https://console.cloud.google.com/) on Google cloud.
 * Clone this GitHub Project into the Console:
 ```
-git clone https://github.com/lordofwizard/mcserver
+git clone https://github.com/Gamepollpro/Bloood-SMP
 ```
 * Go into `mcserver` directory:
 ```
-cd mcserver
+cd Bloood-SMP
 ```
 * Allow all commands executable:
 ```
